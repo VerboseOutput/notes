@@ -10,5 +10,7 @@ Components include
 - a [[jupyter]] notebook utilizing the C++ library, markdown, python libraries
 - a python based GUI utilizing the C++ library
 
-The C++ library utilizes the standard [[cmake]] project design, exporting a target library which provides an API 
+The C++ library utilizes the standard [[cmake]] project design, exporting a target library which provides an API to a piece of hardware.
+
+
 
