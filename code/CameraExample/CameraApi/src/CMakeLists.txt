@@ -1,0 +1,5 @@
+set(CAMERA_SOURCE
+    ${CAMERA_SOURCE}
+    ${CMAKE_CURRENT_SOURCE_DIR}/CameraApi.cpp
+    PARENT_SCOPE
+)

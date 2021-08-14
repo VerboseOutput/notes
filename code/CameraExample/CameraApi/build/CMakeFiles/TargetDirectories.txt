@@ -1,0 +1,3 @@
+C:/Users/danie/notes/code/CameraExample/CameraApi/build/CMakeFiles/Camera.dir
+C:/Users/danie/notes/code/CameraExample/CameraApi/build/CMakeFiles/ALL_BUILD.dir
+C:/Users/danie/notes/code/CameraExample/CameraApi/build/CMakeFiles/ZERO_CHECK.dir

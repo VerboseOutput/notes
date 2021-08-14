@@ -1,0 +1,99 @@
+{
+  "main": {
+    "id": "cd14b5b54cd06841",
+    "type": "split",
+    "children": [
+      {
+        "id": "dd83da10251b3bcd",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "Python & C++ Project Design.md",
+            "mode": "source"
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "19363f3cf0e09b6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "568d413bb2f7aead",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5588ecfd7a393f1e",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "84faee994a19af88",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#cpp",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7fde01e9b7bd6a55",
+    "type": "split",
+    "children": [
+      {
+        "id": "88b78545bc32d7e9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a6ba905dafbf9bf0",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Python & C++ Project Design.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "dd83da10251b3bcd",
+  "lastOpenFiles": [
+    "Python & C++ Project Design.md",
+    "hardware api design.md",
+    "C++ cmake project design.md",
+    "cmake.md",
+    "CMakeLists_example.txt.md",
+    "code/CameraExample.md",
+    "Python/C++ Project Design.md"
+  ]
+}
